@@ -49,7 +49,7 @@ public class NumberChange {
 		System.out.println();
 		
 		String selectedNum = getSelectedNum();
-		System.out.println("This is your new Jio number -> "+selectedNum);
+		System.out.println("This is your new Mobile number -> "+selectedNum);
 		System.out.println("Communicate to your Friends with new Fancy number!");
 		Main.exitMessages();
 		
